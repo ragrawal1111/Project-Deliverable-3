@@ -1,5 +1,9 @@
 # Deliverable 3: Classification, Clustering, and Pattern Mining
 
+Course: MSCS-634 — Advanced Big Data and Data Mining
+Author: Rajiv Agrawal
+Date: 19 April 2026
+
 **Dataset:** UCI Wine Quality (white wine) — 4,898 samples, 11 physicochemical features, binary quality label (good ≥ 6 / bad < 6).
 
 ---
